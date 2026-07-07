@@ -2,9 +2,6 @@
 
 💻 **Python & JavaScript разработчик**  
 🚀 Создаю Telegram-ботов, Сайты, Софты и Парсеры
-
-**Я aiogram из [endway.su](https://endway.su)**  
-
 ---
 
 ### 🛠 **Мой стек**

@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Y1ki/Y1ki/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Y1ki/Y1ki/gh-pages/github-contribution-grid-snake.svg" />
 
 </div>
 

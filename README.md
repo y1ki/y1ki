@@ -15,11 +15,9 @@
 ---
 
 ## 📊 GitHub Статистика
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Y1ki&show_icons=true&theme=radical)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Y1ki&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y1ki&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Y1ki&layout=compact&theme=radical)
 ---
 
 ## 🔥 Streak

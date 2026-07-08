@@ -38,14 +38,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Y1ki&theme=radical&no-frame=true&column=7" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake

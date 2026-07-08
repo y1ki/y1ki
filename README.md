@@ -1,35 +1,77 @@
-# 👋 Привет, я Y1ki!
+<h1 align="center">👋 Привет, я Y1ki</h1>
 
-💻 **Python & JavaScript разработчик**  
-🚀 Создаю Telegram-ботов, сайты, софт и парсеры.
-
----
-
-## 🛠 Мой стек
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<h3 align="center">
+💻 Python & JavaScript Developer  
+<br>
+🚀 Telegram Bots • Websites • Software • Parsers
+</h3>
 
 ---
 
-## 📊 GitHub Статистика
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Y1ki&show_icons=true&theme=radical)
+## 🛠 Технологии
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Y1ki&layout=compact&theme=radical)
----
+<div align="center">
 
-## 🔥 Streak
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,html,css,git,docker,linux&perline=6" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Y1ki&theme=radical)
+</div>
 
 ---
 
-## 📫 Связь
+## 🚀 Что я создаю
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Y1kiLOLZ)
+- 🤖 Telegram-боты
+- 🌐 Веб-сайты
+- ⚙️ Автоматизация и парсеры
+- 🖥 Десктопные приложения
+- 🔌 API и backend-сервисы
 
 ---
 
-⭐️ Буду рад коллаборациям и интересным проектам!
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Y1ki&theme=react-dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Y1ki&theme=radical&no-frame=true&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Y1ki/Y1ki/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📫 Контакты
+
+<div align="center">
+
+<a href="https://t.me/Y1kiLOLZ">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ Спасибо за просмотр!
+
+</div>

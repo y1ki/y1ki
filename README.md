@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,html,css,git,docker,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,html,css,git,docker,php,linux&perline=6" />
 
 </div>
 
